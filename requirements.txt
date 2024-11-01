@@ -1,0 +1,5 @@
+fastapi
+modelscope
+torch
+torchaudio
+uvicorn
